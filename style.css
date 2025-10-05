@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.first {
+  background-color: #000;
+  height: 100vh;
+}
+
+.second {
+  background-color: bisque;
+  height: 100vh;
+}
+
+.third {
+  background-color: brown;
+  height: 100vh;
+}
+
+.fourth {
+  background-color: blueviolet;
+  height: 100vh;
+}
