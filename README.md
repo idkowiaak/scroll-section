@@ -31,8 +31,8 @@ Za pomocą zdarzenia `wheel` JavaScript wykrywa kierunek przewijania i automatyc
 
 ## 🖼️ Demo
 
-scroll-section-animation.netlify.app
-
+[Sprawdź sam!
+](https://scroll-section-animation.netlify.app/)
 ## 🧠 Autor
 
 Projekt stworzony przez @idkowiaak
